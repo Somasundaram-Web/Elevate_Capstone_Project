@@ -1,0 +1,63 @@
+[
+  {
+    "id": 1,
+    "question": "What is HTML?",
+    "keywords": ["html", "html meaning", "web structure"],
+    "answer": "HTML stands for HyperText Markup Language. It is used to create the structure of web pages."
+  },
+  {
+    "id": 2,
+    "question": "What is CSS?",
+    "keywords": ["css", "styling", "design", "colors"],
+    "answer": "CSS stands for Cascading Style Sheets. It is used to style web pages with colors, layouts, fonts and spacing."
+  },
+  {
+    "id": 3,
+    "question": "What is JavaScript?",
+    "keywords": ["javascript", "js", "programming", "interactive"],
+    "answer": "JavaScript is a programming language used to make websites interactive and dynamic."
+  },
+  {
+    "id": 4,
+    "question": "What is React?",
+    "keywords": ["react", "reactjs", "frontend", "library"],
+    "answer": "React is a JavaScript library used to build interactive user interfaces using reusable components."
+  },
+  {
+    "id": 5,
+    "question": "What is Node.js?",
+    "keywords": ["node", "nodejs", "backend", "server"],
+    "answer": "Node.js is a JavaScript runtime that allows developers to run JavaScript outside the browser, commonly for backend development."
+  },
+  {
+    "id": 6,
+    "question": "What is an API?",
+    "keywords": ["api", "application programming interface", "communication"],
+    "answer": "An API (Application Programming Interface) allows different software applications to communicate with each other."
+  },
+  {
+    "id": 7,
+    "question": "What is a database?",
+    "keywords": ["database", "data storage", "store data"],
+    "answer": "A database is an organized collection of information that can be stored, managed and retrieved."
+  },
+  {
+    "id": 8,
+    "question": "What is Express.js?",
+    "keywords": ["express", "expressjs", "framework", "node backend"],
+    "answer": "Express.js is a lightweight Node.js web framework used to build web servers and APIs."
+  },
+  {
+    "id": 9,
+    "question": "What is Machine Learning?",
+    "answer": "Machine Learning is a branch of Artificial Intelligence (AI) that enables computers to learn from data and make predictions or decisions without being explicitly programmed for every task.",
+    "keywords": [
+      "machine learning",
+      "ML",
+      "artificial intelligence",
+      "AI",
+      "learn from data",
+      "prediction"
+    ]
+  }
+]
